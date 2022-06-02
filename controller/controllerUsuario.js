@@ -16,7 +16,7 @@ const usuarios = (req,res) => {
 
 const registerUser =async (req,res) => {
     
-    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Origin', process.env.FRONT_URL);
 
     // Request methods you wish to allow
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
@@ -34,7 +34,7 @@ const registerUser =async (req,res) => {
 
     const usuario = new Usuario(req.body)
     console.log("mesnaje de entrada")
-        console.log(usuario)
+        console.log(req.body)
  
         const {emailUsuario} = req.body
         const existeUsuario = await Usuario.findOne({emailUsuario})
