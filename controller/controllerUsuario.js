@@ -15,7 +15,7 @@ const usuarios = (req,res) => {
 
 
 const registerUser =async (req,res) => {
-    res.header("Access-Control-Allow-Origin", "*");
+    res.header("Access-Control-Allow-Origin", "true");
   
     const usuario = new Usuario(req.body)
         console.log(usuario)
