@@ -39,33 +39,43 @@ const emailRegister = async (usuario,email,token) => {
   //       `
 
   //   })
+try{
 
-  const transporter = nodemailer.createTransport({
-    service : "hotmail",
-    auth : {
-        user : "tfm2022david@outlook.com",
-        pass : "EvaluateFilm888"
+    const transporter = nodemailer.createTransport({
+        service : "hotmail",
+        auth : {
+            user : "tfm2022david@outlook.com",
+            pass : "EvaluateFilm888"
+        }
+    })
+    
+    const options = {
+        from: 'Servicio de registro de Evaluate Films <tfm2022david@outlook.com>',
+        to : email, 
+        subject:'Confirma tu cuenta', 
+        html: `
+            
+            <h1>Bienvenido a la plataforma Evaluate Film</h1>
+            <p>Clicka en el enlace para confirmar tu cuenta</p>
+            <a href="${process.env.FRONT_URL}/public/confirmCount/${token}">Enlace:</a>
+    
+            `
     }
-})
+    
+    transporter.sendMail(options, (error, info) =>{
+        if(error) console.log(error)
+        else console.log(info)
+    })
+    
 
-const options = {
-    from: 'Servicio de registro de Evaluate Films <tfm2022david@outlook.com>',
-    to : email, 
-    subject:'Confirma tu cuenta', 
-    html: `
-        
-        <h1>Bienvenido a la plataforma Evaluate Film</h1>
-        <p>Clicka en el enlace para confirmar tu cuenta</p>
-        <a href="${process.env.FRONT_URL}/public/confirmCount/${token}">Enlace:</a>
 
-        `
-}
+}catch(error){
+               
+     console.log(error)           
+    return res.json({error:"Error Creación usuario"})
 
-transporter.sendMail(options, (error, info) =>{
-    if(error) console.log(error)
-    else console.log(info)
-})
-
+ }
+  
 
 
 

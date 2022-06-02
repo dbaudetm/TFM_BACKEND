@@ -18,7 +18,7 @@ const registerUser =async (req,res) => {
 
   
     const usuario = new Usuario(req.body)
-    
+        console.log(usuario)
         const {emailUsuario} = req.body
         const existeUsuario = await Usuario.findOne({emailUsuario})
 
@@ -35,6 +35,7 @@ const registerUser =async (req,res) => {
                 console.log("Generacion del token: "+token)
                 usuario.tokenUsuario = token
                 const usuarioAlmacenado = await usuario.save()
+                console.log(usuarioAlmacenado)
                 emailRegister(usuario.nombreUsuario, usuario.emailUsuario , usuario.tokenUsuario)
                 console.log(usuario)
                 return res.json({mesage:"Usuario, creado se ha enviado correo, sino encuentra el correo mire en la bandeja de Spam"})
