@@ -1,0 +1,103 @@
+2022/5/31 22:15:24 token llegado: {"id":"629648a084c6fa9e3bc609a8","iat":1654020402,"exp":1654884402}
+2022/5/31 22:15:24 token llegado: {"id":"629648a084c6fa9e3bc609a8","iat":1654020402,"exp":1654884402}
+2022/5/31 22:15:41 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:15:41 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:15:47 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:15:47 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:15:47 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:15:47 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:29:13 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:29:20 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:29:29 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:29:39 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:35:2 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:36:24 token llegado: {"id":"6291271d842e83cbea441871","iat":1654020755,"exp":1654884755}
+2022/5/31 22:36:38 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:36:38 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:36:45 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:36:45 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:36:49 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:36:49 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:36:49 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:36:49 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:37:4 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:37:4 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:37:10 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:37:10 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:37:12 Se creo el usuario: Bearer null
+2022/5/31 22:37:12 Se creo el usuario: Bearer null
+2022/5/31 22:37:50 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:39:50 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036598,"exp":1654900598}
+2022/5/31 22:40:23 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 22:40:24 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 22:40:24 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 22:42:50 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 22:43:42 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 22:44:17 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 22:46:45 token llegado: {"id":"629648a084c6fa9e3bc609a8","iat":1654020402,"exp":1654884402}
+2022/5/31 22:46:53 No esta registrado este usuario null
+2022/5/31 22:49:39 Se creo el usuario: {"nombreUsuario":"david2","passwordUsuario":"$2b$15$LDWxdVRi6Hv/8S5YVckkYe5YBf1Xf1AMmnGuM86uBGCEHI7ZKK4SK","emailUsuario":"dbaudetm@uoc.edu","confirmado":false,"_id":"62969b812beef0088dc51b6b","arraySeguimiento":[],"arrayVistas":[],"tokenUsuario":"qdkpskd439","__v":0}
+2022/5/31 22:49:55 Se creo el usuario: Bearer null
+2022/5/31 22:49:55 Se creo el usuario: Bearer null
+2022/5/31 22:49:55 Token no valido null
+2022/5/31 23:4:21 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654038261,"exp":1654902261}
+2022/5/31 23:4:21 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654038261,"exp":1654902261}
+2022/5/31 23:4:21 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654038261,"exp":1654902261}
+2022/5/31 23:6:56 Se creo el usuario: Bearer null
+2022/5/31 23:6:56 Se creo el usuario: Bearer null
+2022/5/31 23:8:18 Token no valido null
+2022/5/31 23:8:29 Token no valido null
+2022/5/31 23:24:52 Se creo el usuario: Bearer null
+2022/5/31 23:24:52 Se creo el usuario: Bearer null
+2022/5/31 23:25:50 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039550,"exp":1654903550}
+2022/5/31 23:25:50 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039550,"exp":1654903550}
+2022/5/31 23:25:50 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039550,"exp":1654903550}
+2022/5/31 23:27:15 Se creo el usuario: Bearer null
+2022/5/31 23:27:15 Se creo el usuario: Bearer null
+2022/5/31 23:27:39 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:27:39 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:27:39 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:27:46 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:27:46 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:27:56 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:28:3 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:28:50 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039659,"exp":1654903659}
+2022/5/31 23:29:7 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039747,"exp":1654903747}
+2022/5/31 23:29:7 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039747,"exp":1654903747}
+2022/5/31 23:29:7 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039747,"exp":1654903747}
+2022/5/31 23:29:11 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039747,"exp":1654903747}
+2022/5/31 23:29:12 token llegado: {"id":"62969b812beef0088dc51b6b","iat":1654039747,"exp":1654903747}
+2022/5/31 23:30:11 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:30:11 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:30:19 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:32:54 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:32:54 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:32:59 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:32:59 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:32:59 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/5/31 23:32:59 token llegado: {"id":"6291271d842e83cbea441871","iat":1654036823,"exp":1654900823}
+2022/6/1 16:2:29 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:2:29 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:2:33 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:2:33 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:3:41 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:3:41 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:4:7 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:4:7 token llegado: {"id":"6297362b5057cbf79a349ecb","iat":1654076992,"exp":1654940992}
+2022/6/1 16:4:54 No esta registrado este usuario null
+2022/6/1 16:5:15 Se creo el usuario: {"nombreUsuario":"david","passwordUsuario":"$2b$15$s8lonuUyqpFvOwyyZmSvpej0XvOxoXXLgvRcaqXNSD0E9Jyq/UZo6","emailUsuario":"nedveros@gmail.com","confirmado":false,"_id":"62978e3a5c17e965df2b5522","arraySeguimiento":[],"arrayVistas":[],"tokenUsuario":"26sm6lo13ro","__v":0}
+2022/6/1 16:5:38 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:5:38 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:13 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:14 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:14 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:14 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:15 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:15 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:15 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:21 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:21 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:21 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:21 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:26 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}
+2022/6/1 16:6:26 token llegado: {"id":"62978e3a5c17e965df2b5522","iat":1654099537,"exp":1654963537}

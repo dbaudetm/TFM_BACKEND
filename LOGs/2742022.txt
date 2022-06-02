@@ -1,0 +1,51 @@
+2022/4/26 23:31:27 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"david","emailUsuario":"correo@correo.com","confirmado":false,"_id":"626880cfccdd8b379d4a9105"}
+2022/4/27 16:55:29 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"david","emailUsuario":"correo@correo.com","confirmado":false,"_id":"62697581932053cb3c8b11d1"}
+2022/4/27 16:58:11 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"david","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269762382fbb3be79655b41","__v":0}
+2022/4/27 17:10:14 Error: MongoServerError: E11000 duplicate key error collection: myFirstDatabase.usuarios index: emailUsuario_1 dup key: { emailUsuario: "correo@correo.com" }
+2022/4/27 17:13:30 Error: MongoServerError: E11000 duplicate key error collection: myFirstDatabase.usuarios index: emailUsuario_1 dup key: { emailUsuario: "correo@correo.com" }
+2022/4/27 17:14:54 Error: MongoServerError: E11000 duplicate key error collection: myFirstDatabase.usuarios index: emailUsuario_1 dup key: { emailUsuario: "correo@correo.com" }
+2022/4/27 17:53:43 Error: MongoServerError: E11000 duplicate key error collection: myFirstDatabase.usuarios index: emailUsuario_1 dup key: { emailUsuario: "correo@correo.com" }
+2022/4/27 17:54:28 Error: MongoServerError: E11000 duplicate key error collection: myFirstDatabase.usuarios index: emailUsuario_1 dup key: { emailUsuario: "correo@correo.com" }
+2022/4/27 17:56:56 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"david","emailUsuario":"correo2@correo.com","confirmado":false,"_id":"626983e8c776dad51abd3865","__v":0}
+2022/4/27 19:46:28 error ya existe el usuario con el correo undefined
+2022/4/27 19:46:36 error ya existe el usuario con el correo undefined
+2022/4/27 19:46:38 error ya existe el usuario con el correo undefined
+2022/4/27 19:46:44 error ya existe el usuario con el correo undefined
+2022/4/27 19:47:42 error ya existe el usuario con el correo undefined
+2022/4/27 19:47:43 error ya existe el usuario con el correo undefined
+2022/4/27 19:47:44 error ya existe el usuario con el correo undefined
+2022/4/27 19:47:44 error ya existe el usuario con el correo undefined
+2022/4/27 19:49:15 error ya existe el usuario con el correo undefined
+2022/4/27 19:49:23 error ya existe el usuario con el correo undefined
+2022/4/27 19:49:24 error ya existe el usuario con el correo undefined
+2022/4/27 19:49:25 error ya existe el usuario con el correo undefined
+2022/4/27 19:51:42 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"david","emailUsuario":"correo@correo.com","confirmado":false,"_id":"62699ece67b9b54afa597b49","__v":0}
+2022/4/27 19:51:50 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:4 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:6 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:8 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:8 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:9 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:10 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:10 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:11 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:46 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:46 error ya existe el usuario con el correo undefined
+2022/4/27 19:52:47 error ya existe el usuario con el correo undefined
+2022/4/27 19:53:9 error ya existe el usuario con el correo undefined
+2022/4/27 19:53:40 error ya existe el usuario con el correo undefined
+2022/4/27 19:54:49 Se creo el usuario: {"nombreUsuario":"David2","passwordUsuario":"david2","emailUsuario":"aaaaaa@correo.com","confirmado":false,"_id":"62699f89cb72a58991e37d35","__v":0}
+2022/4/27 19:55:1 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"david","emailUsuario":"correo@correo.com","confirmado":false,"_id":"62699f95cb72a58991e37d38","__v":0}
+2022/4/27 20:16:38 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$20$m4JDk2LKXZuRPjDXvrlmJ.G3LuBli5RVQX29VJYMzy90yhb481YVC","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269a46d62b21fcc6b3277ba","__v":0}
+2022/4/27 20:17:11 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$6zeHaNVghKgFM98HHXEdye8nM7sxVT44NqoMnv5gJ8skSuWKL9FYm","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269a4c6fdd6de46377fb81d","__v":0}
+2022/4/27 21:49:10 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$/dsZd.4G5wTVyOCxoNKSrea9EzlC41tylOhrjsL1oWJGI716l0r1C","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269ba542af18a39330d76d6","__v":0}
+2022/4/27 21:50:23 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$UFebG9xGPxAg.A9nKir9KusKUxq66xtvmizFgt63.J0sSCo3byFQW","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269ba9d1fefad9a8138803d","tokenUsuario":"function random() { [native code] }","__v":0}
+2022/4/27 21:51:58 Error: ReferenceError: token is not defined
+2022/4/27 21:52:39 Error: ReferenceError: token is not defined
+2022/4/27 21:53:54 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$Ive6AAMfXy266u3YEpgYZekXEt5qbpHdolDY2GNBtRSvlSdXBrIVa","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269bb70cb5c669993b51d2d","tokenUsuario":"function random() { [native code] }","__v":0}
+2022/4/27 21:54:25 Error: MongoServerError: E11000 duplicate key error collection: myFirstDatabase.usuarios index: emailUsuario_1 dup key: { emailUsuario: "correo@correo.com" }
+2022/4/27 21:54:47 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$Fet9BsWUI9.fYYs6Y0bVE.xJkoSYLvUoI4eSyYtklR0qIJEKMdT5m","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269bba6a82dc57cff205df0","tokenUsuario":"function generateToken (){\r\n\r\n     var token = Math.random.toString(16).replace('0.')\r\n    console.log(token)\r\n    return token\r\n}","__v":0}
+2022/4/27 21:56:0 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$Kck6D2qYYEm8I1sZ4LKS/ubgU21CBtUwpb6mhiJGE5Ene8hbVkTZ2","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269bbee2e35caf4342c9c1a","tokenUsuario":"() => {\r\n\r\n     var token = Math.random.toString(16).replace('0.')\r\n    console.log(token)\r\n    return token\r\n}","__v":0}
+2022/4/27 21:56:39 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$kQemxD5UCNSB7sz3DwjkPu0QF8oVcKyO8.NMKLnTS9jZEQboEx1fO","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269bc16dc3d23ff4ac6b3a3","tokenUsuario":"function random() { [native code] }","__v":0}
+2022/4/27 21:57:54 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$ToAizFR0mpRPcAr/HYArPO7wxEEwX/T64MvrH4yROizO4WxWrGHzK","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269bc606dc315c90a22ad97","tokenUsuario":"undefinedbf75bc799eee3","__v":0}
+2022/4/27 21:58:30 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$LBoE6h/LgLnmxDYib0F1NOn1Sr8vGY/0KHY/8c7xz8M3O17KmHaVi","emailUsuario":"correo@correo.com","confirmado":false,"_id":"6269bc84a06f98e2c1f6f993","tokenUsuario":"bc5bbfcdd67de","__v":0}

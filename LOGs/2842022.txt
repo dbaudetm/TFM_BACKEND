@@ -1,0 +1,1 @@
+2022/4/28 17:13:39 El usuario no está confirmado {"_id":"6269bc84a06f98e2c1f6f993","nombreUsuario":"David","passwordUsuario":"$2b$15$LBoE6h/LgLnmxDYib0F1NOn1Sr8vGY/0KHY/8c7xz8M3O17KmHaVi","emailUsuario":"correo@correo.com","confirmado":false,"tokenUsuario":"bc5bbfcdd67de","__v":0}

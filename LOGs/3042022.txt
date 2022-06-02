@@ -1,0 +1,2 @@
+2022/4/30 20:43:57 Se creo el usuario: {"nombreUsuario":"David2","passwordUsuario":"$2b$15$hVdyRyDw8ULOKhlVH9/RzuXC2dAOqBASgXxRTTViZ/oP4nDc4uZhu","emailUsuario":"correo2@correo.com","confirmado":false,"_id":"626d9f8bdff05f094ce9e9fd","tokenUsuario":"gv8orgchsao","__v":0}
+2022/4/30 20:44:34 Se logueo el usuario 626d9fb0dff05f094ce9ea03

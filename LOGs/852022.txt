@@ -1,0 +1,6 @@
+2022/5/7 22:20:40 Se creo el usuario: {"nombreUsuario":"david","passwordUsuario":"$2b$15$0Hm9IzMXeDj3i2//YB2kJ.Lcv5uBA5gu1PA5KsW7XXPt8g3LTwv/6","emailUsuario":"nedveros@gmail.com","confirmado":false,"arraySeguimiento":[],"arrayVistas":[],"_id":"6276f0b68f33442636e95b48","tokenUsuario":"6mbs6eoeg2o","__v":0}
+2022/5/7 22:22:6 Se logueo el usuario 6276f0b68f33442636e95b48
+2022/5/7 22:22:12 token llegado: {"id":"6276f0b68f33442636e95b48","iat":1651962126,"exp":1652826126}
+2022/5/7 22:22:12 token llegado: {"id":"6276f0b68f33442636e95b48","iat":1651962126,"exp":1652826126}
+2022/5/7 22:23:27 token llegado: {"id":"6276f0b68f33442636e95b48","iat":1651962126,"exp":1652826126}
+2022/5/7 22:23:27 token llegado: {"id":"6276f0b68f33442636e95b48","iat":1651962126,"exp":1652826126}

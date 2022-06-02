@@ -1,0 +1,58 @@
+2022/5/1 17:44:43 Se creo el usuario: {"nombreUsuario":"David2","passwordUsuario":"$2b$15$jVlTrXoWb7bY5zqf3f67y.iB9faFrfK7v7DYF4Ns48kUWydPyWST.","emailUsuario":"correo2@correo.com","confirmado":false,"_id":"626ec709754eed8a11b285cb","tokenUsuario":"2a0t1561j6o","__v":0}
+2022/5/1 17:45:25 Se logueo el usuario 626ec733754eed8a11b285d1
+2022/5/1 17:51:21 token llegado: {"id":"626ec733754eed8a11b285d1","iat":1651427125,"exp":1652291125}
+2022/5/1 17:53:42 token llegado: {"id":"626ec733754eed8a11b285d1","iat":1651427125,"exp":1652291125}
+2022/5/1 17:54:15 token llegado: {"id":"626ec733754eed8a11b285d1","iat":1651427125,"exp":1652291125}
+2022/5/1 17:55:43 token llegado: {"id":"626ec733754eed8a11b285d1","iat":1651427125,"exp":1652291125}
+2022/5/1 17:55:43 Se creo el usuario: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyNmVjNzMzNzU0ZWVkOGExMWIyODVkMSIsImlhdCI6MTY1MTQyNzEyNSwiZXhwIjoxNjUyMjkxMTI1fQ.Ouj0xL8wlHAZqyZy1l0awqag1SWo8g6TH3BR1SW0ln0
+2022/5/1 17:56:45 token llegado: {"id":"626ec733754eed8a11b285d1","iat":1651427125,"exp":1652291125}
+2022/5/1 17:57:26 token llegado: {"id":"626ec733754eed8a11b285d1","iat":1651427125,"exp":1652291125}
+2022/5/1 17:59:33 Se logueo el usuario 626eca83fc14facf0a7a6312
+2022/5/1 18:0:57 Se logueo el usuario 626ecad71a728fa1b5fb9c6c
+2022/5/1 18:1:29 token llegado: {"id":"626ecad71a728fa1b5fb9c6c","iat":1651428057,"exp":1652292057}
+2022/5/1 18:1:31 token llegado: {"id":"626ecad71a728fa1b5fb9c6c","iat":1651428057,"exp":1652292057}
+2022/5/1 18:3:38 token llegado: {"id":"626ecad71a728fa1b5fb9c6c","iat":1651428057,"exp":1652292057}
+2022/5/1 18:3:57 Se logueo el usuario 626ecb8c0efeaa3c80dd0508
+2022/5/1 18:6:10 Se logueo el usuario 626ecc11f8fc884ddaa868c8
+2022/5/1 18:7:57 Se logueo el usuario 626ec709754eed8a11b285cb
+2022/5/1 18:8:10 Se logueo el usuario 626ec709754eed8a11b285cb
+2022/5/1 18:9:46 Se logueo el usuario 626ec709754eed8a11b285cb
+2022/5/1 18:10:10 Se logueo el usuario 626ec709754eed8a11b285cb
+2022/5/1 18:10:56 Se logueo el usuario 626ec709754eed8a11b285cb
+2022/5/1 18:11:40 Se logueo el usuario 626ec709754eed8a11b285cb
+2022/5/1 18:11:54 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 18:12:42 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 18:24:50 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:14:32 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:16:35 Error token de acceso: undefined
+2022/5/1 19:29:4 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:30:14 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:30:34 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:31:46 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:32:35 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:35:39 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:36:35 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:37:0 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:37:13 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 19:43:22 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 20:37:34 Se creo el usuario: {"nombreUsuario":"David2","passwordUsuario":"$2b$15$FXLvd6EqLYeuasLIJaz9g.0D9LD6wbNZrl.vGPTIaBBj9WxnTnZ5.","emailUsuario":"correo2@correo.com","confirmado":false,"arraySeguimiento":[],"arrayVistas":[],"_id":"626eef8dd004107b9c729a55","tokenUsuario":"fsm8r676sc8","__v":0}
+2022/5/1 21:25:32 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 21:27:23 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 21:29:55 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 21:30:24 token llegado: {"id":"626ec709754eed8a11b285cb","iat":1651428700,"exp":1652292700}
+2022/5/1 21:31:7 Se logueo el usuario 626eef8dd004107b9c729a55
+2022/5/1 21:31:20 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:31:35 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:32:40 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:33:59 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:35:52 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:37:10 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:37:31 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:37:41 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:39:48 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:56:33 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:57:3 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:57:11 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:57:45 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:58:1 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}
+2022/5/1 21:59:46 token llegado: {"id":"626eef8dd004107b9c729a55","iat":1651440667,"exp":1652304667}

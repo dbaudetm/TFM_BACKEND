@@ -1,0 +1,11 @@
+2022/4/29 10:4:34 Error: ReferenceError: Cannot access 'usuario' before initialization
+2022/4/29 10:7:21 Error: ReferenceError: Cannot access 'usuario' before initialization
+2022/4/29 10:8:47 Error: TypeError: Usuario.save is not a function
+2022/4/29 10:14:9 Error: ReferenceError: Cannot access 'usuario' before initialization
+2022/4/29 10:16:7 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$cdjEE1pdlLqUXaGN0/ToXuLgRi7j8rAD7V4MouCgNk2ziH1ujrxAq","emailUsuario":"correo@correo.com","confirmado":false,"_id":"626bbae5d80244c1513569a9","tokenUsuario":"bc5efd249ed18","__v":0}
+2022/4/29 10:25:33 Error: MongoServerError: E11000 duplicate key error collection: myFirstDatabase.usuarios index: emailUsuario_1 dup key: { emailUsuario: "correo@correo.com" }
+2022/4/29 10:27:9 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$zlRQafhgYEAjHa/a3gGRlO1Mo4g6eaOKg2QG9N7pPGnp3n5StTM4K","emailUsuario":"correo@correo.com","confirmado":false,"_id":"626bbd7be66220728e43445c","tokenUsuario":"eundtcegv9","__v":0}
+2022/4/29 10:27:26 El usuario no está confirmado {"_id":"626bbd7be66220728e43445c","nombreUsuario":"David","passwordUsuario":"$2b$15$zlRQafhgYEAjHa/a3gGRlO1Mo4g6eaOKg2QG9N7pPGnp3n5StTM4K","emailUsuario":"correo@correo.com","confirmado":false,"tokenUsuario":"eundtcegv9","__v":0}
+2022/4/29 10:30:25 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$TRwzDHF0lkPfqKIQYZjrVOR6GPL.0jqIZwdqvJls7kVBnaDBN14aC","emailUsuario":"correo@correo.com","confirmado":false,"_id":"626bbe3f6a489de14027f74d","tokenUsuario":"32tp0a9d1p8","__v":0}
+2022/4/29 10:31:9 Se creo el usuario: {"nombreUsuario":"David","passwordUsuario":"$2b$15$xUPpyds9ONuHFgY2p0.ht.6kP5tKLAh7EJse6/CovGTlpO5B.2VrW","emailUsuario":"correo@correo.com","confirmado":false,"_id":"626bbe6b26ba1250d8bbe913","tokenUsuario":"e22ab8flnco","__v":0}
+2022/4/29 21:31:25 Se logueo el usuario 626c592b7cd614a844380c2c
