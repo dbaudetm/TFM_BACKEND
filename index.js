@@ -26,7 +26,8 @@ origin:function (origin, callback){
 
 
 }
-app.use(cors(corsLocalhost))
+// app.use(cors(corsLocalhost))
+app.use(cors())
 app.use('/api/usuarios',routingUsuario)
 const PORT = process.env.PORT || 4000
 app.listen(PORT,()=>{
