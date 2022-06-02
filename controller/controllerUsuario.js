@@ -7,9 +7,9 @@ import {emailRegister,emailRecovery} from "./../mail.js"
 import mongoose from "mongoose"
 import bcrypt from "bcrypt"
 import jwt from 'jsonwebtoken'
-const usuarios = (req,res) => {
-    res.send("Desde API/USUARIOS")
-}
+// const usuarios = (req,res) => {
+//     res.send("Desde API/USUARIOS")
+// }
 
 
 

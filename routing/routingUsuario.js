@@ -6,7 +6,7 @@ import checkLogin from "../Authorization.js"
 
 const routing = express.Router()
 //Routing del Usuario
-routing.get('/',usuarios)
+//routing.get('/',usuarios)
 routing.post('/register',registerUser)
 routing.get('/confirm/:tokenUsuario',confirmUser)
 routing.get('/confirm2/:tokenUsuario',confirmUser2)
