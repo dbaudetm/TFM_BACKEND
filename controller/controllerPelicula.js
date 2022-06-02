@@ -22,6 +22,22 @@ const searchMongo = async(qwery) =>{
 
 const searchFilm = async (req,res) => {
 
+
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    res.setHeader('Access-Control-Allow-Credentials', true);
+
+
+
+
     const {qwery} = req.params
     if(qwery != undefined){
         
@@ -90,7 +106,17 @@ const searchFilm = async (req,res) => {
 
 const createFilm = async (obj, obj2) => {
    
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
 
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    res.setHeader('Access-Control-Allow-Credentials', true);
   
 
     const titulo = obj.title
@@ -120,6 +146,21 @@ const createFilm = async (obj, obj2) => {
 }
 
 const seeFilm = async (req,res) =>{
+
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    res.setHeader('Access-Control-Allow-Credentials', true);
+
+
+
     try{
         const id = req.params
   
@@ -131,6 +172,11 @@ const seeFilm = async (req,res) =>{
 }
 
 const detailsFilm = async(id)=>{
+
+    
+
+
+
     const search  = await fetch("https://api.themoviedb.org/3/movie/"+id+"?api_key="+process.env.MovieDataBase+"&language=es-SP")
     const data = await search.json()
     return data
@@ -151,6 +197,22 @@ const spoken_languagesFilm = (spoken_languages) => {
 
 
 const addFollow = async (req,res) =>{
+
+
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    res.setHeader('Access-Control-Allow-Credentials', true);
+
+
+
  
         const id = req.params
         const idUsuario = req.body._id
@@ -217,6 +279,22 @@ const addFollow = async (req,res) =>{
 const addViews = async (req,res) =>{
 
 
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    res.setHeader('Access-Control-Allow-Credentials', true);
+
+
+
+
+
     const id = req.params
     const idUsuario = req.body._id
 
@@ -281,6 +359,23 @@ const addViews = async (req,res) =>{
 
 
 const NotViewFollow = async (req,res) =>{
+
+
+    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
+
+    // Request methods you wish to allow
+    res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+
+    // Request headers you wish to allow
+    res.setHeader('Access-Control-Allow-Headers', 'X-Requested-With,content-type');
+
+    // Set to true if you need the website to include cookies in the requests sent
+    // to the API (e.g. in case you use sessions)
+    res.setHeader('Access-Control-Allow-Credentials', true);
+
+
+
+
 
     console.log("añadir")
     const id = req.params
