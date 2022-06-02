@@ -15,7 +15,8 @@ const usuarios = (req,res) => {
 
 
 const registerUser =async (req,res) => {
-    res.setHeader('Access-Control-Allow-Origin', 'http://localhost:8888');
+    
+    res.setHeader('Access-Control-Allow-Origin', '*');
 
     // Request methods you wish to allow
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
@@ -26,9 +27,15 @@ const registerUser =async (req,res) => {
     // Set to true if you need the website to include cookies in the requests sent
     // to the API (e.g. in case you use sessions)
     res.setHeader('Access-Control-Allow-Credentials', true);
-  
+
+
+
+
+
     const usuario = new Usuario(req.body)
+    console.log("mesnaje de entrada")
         console.log(usuario)
+ 
         const {emailUsuario} = req.body
         const existeUsuario = await Usuario.findOne({emailUsuario})
 
